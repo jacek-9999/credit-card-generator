@@ -7,8 +7,13 @@ You can choose bin and this class will find correct numbers in array.
 https://en.wikipedia.org/wiki/Bank_card_number
 
 Usage example:
+
 require('creditCardGenerator.php');
+
 $genCC = new creditCardGenerator();
+
 $genCC->setBin(123);
+
 $output = $genCC->getCC();
+
 print_r($output);
