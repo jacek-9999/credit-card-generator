@@ -1,7 +1,7 @@
 {
-    "name": "jacek-9999/creditCardGenerator",
+    "name": "jacek-9999/credit-card-generator",
     "description": "Generating valid credit card numbers",
-    "homepage": "https://github.com/jacek-9999/creditCardGenerator",
+    "homepage": "https://github.com/jacek-9999/credit-card-generator",
     "keywords": ["payments", "luhn", "card"],
     "license": "MIT",
     "authors": [
