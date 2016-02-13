@@ -18,11 +18,6 @@
                 "jacek-9999\\": "src"                                                    
             }                                
         },
-    "extra": {
-        "branch-alias": {
-            "stable": "1.0.*"                                                    
-        }                                
-    }
 }
 
 
