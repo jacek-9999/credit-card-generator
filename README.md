@@ -1,6 +1,6 @@
 # creditCardGenerator
 
-This class use Luhn algoritm for generating valid credit cards number.
+This class uses Luhn algoritm for generating valid credit cards number.
 
 https://en.wikipedia.org/wiki/Luhn_algorithm
 
