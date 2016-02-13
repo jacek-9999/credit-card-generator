@@ -1,9 +1,11 @@
 # creditCardGenerator
 
 This class use Luhn algoritm for generating valid credit cards number.
+
 https://en.wikipedia.org/wiki/Luhn_algorithm
 
-You can choose bin and this class will find correct numbers in array.
+You can choose bin and this class will find correct numbers and return it in the array.
+
 https://en.wikipedia.org/wiki/Bank_card_number
 
 Package is available by composer:
