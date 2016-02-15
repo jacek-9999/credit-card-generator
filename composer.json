@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "jacek-9999\\": "src"                                                    
+            "jacek9999\\": "src"                                                    
         }                                
     }
 }
