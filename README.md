@@ -13,6 +13,7 @@ Package is available by composer:
 composer require jacek-9999/credit-card-generator
 
 Usage example's:
+
 1) 
 
 https://gist.github.com/jacek-9999/64c319344ab8d9e50ea2
