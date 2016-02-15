@@ -1,4 +1,5 @@
 <?php
+namespace jacek9999;
 
 class creditCardGenerator
 {
